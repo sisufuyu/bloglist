@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1hcmsgYW5kIFBhdWwiLCJpZCI6IjYyMDEwNmUzOWRkMjhiNGI1ODViMjc2NyIsImlhdCI6MTY0NTIxODg4M30.PQgG4eEBuTphpIEk7G5wpfMVpqHMLmsmoKbJMneyNhM
+
+{
+    "title": "Intriguing castles and idyllic rural life in the beautiful Dordogne", 
+    "author": "Mark and Paul",
+    "url": "https://anywhereweroam.com/what-to-do-in-dordogne-france/",
+    "likes" : 200
+}

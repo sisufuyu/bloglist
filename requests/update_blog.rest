@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/620ff012cfe31c4aecf77f7a
+Content-Type: application/json
+
+{
+    "title": "Podcast: How I Turned A Career Sabattical Into A Life Of Travel",
+    "author": "Marek",
+    "url": "https://www.indietraveller.co/podcast-the-offbeat-life/",
+    "likes": 100
+}
