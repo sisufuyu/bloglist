@@ -1,5 +1,5 @@
 # bloglist
-This is a fullstack project from the University of Helsinki full stack course https://fullstackopen.com/en/. 
+This is a fullstack project from the University of Helsinki full stack course https://fullstackopen.com/en/. You can find front-end part code from https://github.com/sisufuyu/bloglist-frontend
 The front-end part writes using React framework and back-end part using Node.js and Express.js. The database uses MongoDB. 
 The app is delopyed on Heroku server, you can open the app through https://react-bloglist.herokuapp.com/
 
